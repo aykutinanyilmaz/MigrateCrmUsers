@@ -1,0 +1,12 @@
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\bin\Debug\MigrateCRMUserApplication.exe.config
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\bin\Debug\MigrateCRMUserApplication.exe
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\bin\Debug\MigrateCRMUserApplication.pdb
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\obj\Debug\MigrateCRMUserApplication.csprojAssemblyReference.cache
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\obj\Debug\MigrateCRMUserApplication.csproj.CoreCompileInputs.cache
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\obj\Debug\MigrateCRMUserApplication.csproj.CopyComplete
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\obj\Debug\MigrateCRMUserApplication.exe
+C:\Projects\MigrateUserCRM\MigrateCRMUserApplication\obj\Debug\MigrateCRMUserApplication.pdb
